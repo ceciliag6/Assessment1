@@ -123,6 +123,7 @@ public class AssessmentOne {
 					}
 					
 				}	while(ch.compareTo("d")!=0);
+				break;
 			case 3:
 				System.out.println("Closing the application");
 				break;		
